@@ -1,0 +1,20 @@
+2024-12-12 09:17:10.741 [info] 
+
+
+
+
+2024-12-12 09:17:10.759 [info] Extension host agent started.
+2024-12-12 09:17:10.901 [info] [<unknown>][1d3ebf73][ManagementConnection] New connection established.
+2024-12-12 09:17:10.903 [info] [<unknown>][f73adf44][ExtensionHostConnection] New connection established.
+2024-12-12 09:17:11.000 [info] [<unknown>][f73adf44][ExtensionHostConnection] <914> Launched Extension Host Process.
+2024-12-12 09:17:24.840 [error] [File Watcher] Inotify limit reached (ENOSPC) (path: /home/ubuntu)
+2024-12-12 09:22:10.764 [info] New EH opened, aborting shutdown
+2024-12-12 09:23:14.318 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+2024-12-12 09:27:16.593 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+2024-12-12 09:31:21.641 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+2024-12-12 09:35:30.094 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-12 09:35:40.016 [error] Error: connect ECONNREFUSED 127.0.0.1:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)

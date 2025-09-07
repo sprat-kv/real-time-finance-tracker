@@ -1,0 +1,21 @@
+2024-12-13 05:25:11.350 [info] 
+
+
+
+
+2024-12-13 05:25:11.378 [info] Extension host agent started.
+2024-12-13 05:25:11.534 [info] [<unknown>][2f775a88][ExtensionHostConnection] New connection established.
+2024-12-13 05:25:11.535 [info] [<unknown>][0ab68c16][ManagementConnection] New connection established.
+2024-12-13 05:25:11.640 [info] [<unknown>][2f775a88][ExtensionHostConnection] <14839> Launched Extension Host Process.
+2024-12-13 05:30:11.379 [info] New EH opened, aborting shutdown
+2024-12-13 07:44:55.296 [info] [<unknown>][0ab68c16][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-12-13 07:46:16.885 [info] [<unknown>][0ab68c16][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-12-13 07:46:16.887 [info] [<unknown>][13c73897][ManagementConnection] New connection established.
+2024-12-13 07:46:16.889 [info] [<unknown>][7dc6f621][ExtensionHostConnection] New connection established.
+2024-12-13 07:46:16.895 [info] [<unknown>][7dc6f621][ExtensionHostConnection] <27512> Launched Extension Host Process.
+2024-12-13 07:46:16.899 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2024-12-13 07:46:35.082 [error] [File Watcher] Inotify limit reached (ENOSPC) (path: /home/ubuntu)
+2024-12-13 07:51:17.203 [info] [<unknown>][0ab68c16][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-12-13 07:51:17.336 [info] [<unknown>][2f775a88][ExtensionHostConnection] <14839> Extension Host Process exited with code: 0, signal: null.
