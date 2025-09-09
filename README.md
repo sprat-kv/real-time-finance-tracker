@@ -13,10 +13,6 @@ The project leverages AWS services to ensure real-time data processing, secure s
 
 ## Project Demo
 
-Watch the complete demo of our Real-Time Expense Tracker on YouTube:
-
-[![Real-Time Expense Tracker Demo](Real-TimeExpenseTrackerPreview.png)](https://youtu.be/rrnqwVJVfyQ)
-
 Click the image or [here](https://youtu.be/rrnqwVJVfyQ) to watch the video.
 
 ---
