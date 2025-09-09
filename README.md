@@ -13,7 +13,7 @@ The project leverages AWS services to ensure real-time data processing, secure s
 
 ## Project Demo
 
-Click the image or [here](https://youtu.be/rrnqwVJVfyQ) to watch the video.
+Click [here](https://youtu.be/rrnqwVJVfyQ) to watch the video.
 
 ---
 
