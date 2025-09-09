@@ -1,0 +1,5 @@
+.local
+.cache
+.npm
+.ssh
+.vscode*
