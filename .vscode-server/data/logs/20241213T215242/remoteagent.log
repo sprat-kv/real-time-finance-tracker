@@ -1,9 +1,0 @@
-2024-12-13 21:52:42.422 [info] 
-
-
-
-
-2024-12-13 21:52:42.435 [info] Extension host agent started.
-2024-12-13 21:52:42.618 [error] [<unknown>][c34eb7d3][ManagementConnection] Unknown reconnection token (never seen).
-2024-12-13 21:52:42.626 [error] [<unknown>][da2eec6c][ExtensionHostConnection] Unknown reconnection token (never seen).
-2024-12-13 21:57:42.436 [info] Last EH closed, shutting down
