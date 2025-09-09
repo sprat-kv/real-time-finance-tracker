@@ -11,12 +11,6 @@ The project leverages AWS services to ensure real-time data processing, secure s
 
 ---
 
-## Project Demo
-
-Click [here](https://youtu.be/rrnqwVJVfyQ) to watch the video.
-
----
-
 ## Features
 - **Real-Time Expense Tracking**: Process transaction data in real time using AWS Kinesis Data Streams and AWS Lambda.
 - **Analytics Dashboard**: View insights such as expense trends and category comparisons via React-based visualizations.
@@ -128,7 +122,11 @@ Follow these steps to deploy the application:
   - Frontend: React (JavaScript)
   - Data Generation: Python
   - Database: PostgreSQL
+---
 
+## Project Demo
+
+Click [here](https://youtu.be/rrnqwVJVfyQ) to watch the video.
 ---
 
 ## Future Work
