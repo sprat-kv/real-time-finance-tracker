@@ -1,14 +1,7 @@
-# Real-Time Expense Tracker
-
-## Team Information
-- **Team Members:**
-  - Sai Krishna Sriram, MS in Data Science, University of Colordo Boulder
-  - Sai Pratheek KVDSNK, MS in Data Science, University of Colordo Boulder
-
----
+# LedgerIt - Real-Time Expense Tracker
 
 ## Project Overview
-This Real-Time Expense Tracker is a cloud-native application that allows users to:
+This LedgerIt is a cloud-native application that allows users to:
 - Monitor and manage their expenses effectively.
 - Visualize expense trends and category-wise comparisons through an interactive dashboard.
 - Upload important receipts securely to prevent misplacement.
