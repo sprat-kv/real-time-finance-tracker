@@ -1,8 +1,9 @@
-.local
-.cache
-.npm
-.ssh
-.vscode*
+.local/
+.cache/
+.npm/
+.ssh/
+.vscode*/
+.vscode-server/
 # Added comprehensive ignore patterns
 # --- Python ---
 __pycache__/
