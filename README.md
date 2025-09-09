@@ -28,7 +28,7 @@ The architecture includes:
 
 Below is the architecture diagram for the application:
 
-![Architecture Diagram](ExpenseTrackerArchitecture.jpg)
+![Architecture Diagram](images\ExpenseTrackerArchitecture.jpg)
 
 ---
 
