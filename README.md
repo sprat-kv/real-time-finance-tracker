@@ -136,10 +136,3 @@ Click [here](https://youtu.be/rrnqwVJVfyQ) to watch the video.
 
 Stay Tuned ....
 
----
-
-## Contact
-For any queries, reach out to:
-- **Email**: saikrishna.sriam@colorado.edu, saipratheek.kerthivenkata@colorado.edu
-- **GitHub Issues**: Use the repository's issue tracker for bug reports or feature requests.
-
